@@ -1,7 +1,12 @@
 package org.development;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlType;
 import java.util.Objects;
 
+@XmlType(name = "entry")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Entry {
     private int field;
 
