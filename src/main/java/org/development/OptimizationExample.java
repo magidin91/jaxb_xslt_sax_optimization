@@ -16,7 +16,7 @@ import java.util.List;
  * It's an example of using XML_XSLT_SAX optimization:
  * 1) Using JDBC adds 10 entries to the database table and then get a list of entries from the database.
  * 2) Using JAXB serializes entries from the list to the target file in XML format.
- * 3) Using XSLT converts an XML file(targetXML) using an XSL template to a file(newXML) in a different XML format.
+ * 3) Using XSLT converts XML file(targetXML) using XSL template to a file(newXML) in a different XML format.
  * 4) Using SAX parses the file and output the arithmetic sum of the values of a "field" attribute.
  */
 public class OptimizationExample {
