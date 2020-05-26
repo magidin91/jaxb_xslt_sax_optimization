@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * Serialization in xml
+ * Serialization in XML
  */
 public class StoreXML {
     private static final Logger LOGGER = LoggerFactory.getLogger(StoreXML.class);
