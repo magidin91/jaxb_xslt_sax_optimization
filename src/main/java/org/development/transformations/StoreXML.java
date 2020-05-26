@@ -1,5 +1,7 @@
-package org.development;
+package org.development.transformations;
 
+import org.development.models.Entries;
+import org.development.models.Entry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

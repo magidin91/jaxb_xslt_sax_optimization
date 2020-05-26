@@ -1,5 +1,7 @@
 package org.development;
 
+import org.development.models.Entry;
+import org.development.transformations.StoreXML;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TemporaryFolder;

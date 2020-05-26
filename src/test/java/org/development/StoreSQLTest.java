@@ -1,5 +1,8 @@
 package org.development;
 
+import org.development.connection.ConnectionCreator;
+import org.development.models.Entry;
+import org.development.transformations.StoreSQL;
 import org.junit.Test;
 
 import java.util.List;

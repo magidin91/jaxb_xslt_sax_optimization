@@ -1,4 +1,4 @@
-package org.development;
+package org.development.connection;
 
 import java.io.InputStream;
 import java.sql.Connection;
